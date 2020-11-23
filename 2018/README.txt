@@ -9,3 +9,6 @@ assignment.
 The other half of the video features projects made in the game making tool
 Unity. Unity uses C# as a scripting language, and this is where most of my
 work was done.
+
+Uploaded video was too large to upload, will look into github LFS and get back
+to this.
